@@ -5,7 +5,7 @@ body {
     height: 100vh;
     margin: 0;
     font-family: Arial, sans-serif;
-    background: linear-gradient(to right,#b51dfd,#5fcad4);
+    background: linear-gradient(to right, #b51dfd, #5fcad4);
 }
 
 .container {
@@ -32,7 +32,7 @@ label {
     margin-bottom: 5px;
 }
 
-input {
+input, select {
     width: 100%;
     padding: 8px;
     box-sizing: border-box;
