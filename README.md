@@ -8,7 +8,7 @@ A BMI (Body Mass Index) calculator using HTML, CSS, and JavaScript typically con
 
 ## Try It Out Yourself
 
-https://arunabhajana.github.io/BMI-Calculator/
+[https://arunabhajana.github.io/BMI-Calculator/](https://bmi-calculator-weld-zeta.vercel.app/)
 
 
 
